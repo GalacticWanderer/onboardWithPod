@@ -1,0 +1,16 @@
+PODS:
+  - OnboardKit (1.3.0)
+
+DEPENDENCIES:
+  - OnboardKit
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - OnboardKit
+
+SPEC CHECKSUMS:
+  OnboardKit: 9f985b1e2012cebbbbc85d52502fa9e09f3b89b4
+
+PODFILE CHECKSUM: d1dcf2af32b503cb9251fa7dc5b388cc749d5b3b
+
+COCOAPODS: 1.6.1
