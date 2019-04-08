@@ -7,7 +7,8 @@
 //
 
 import UIKit
-import OnboardKit //need this pod for onboarding
+//make sure to install pod 'OnboardKit' using your podfile
+import OnboardKit //the library that we will be using
 
 class ViewController: UIViewController {
 
